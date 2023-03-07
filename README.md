@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/michaeloforitenkorang](https://www.linkedin.com/in/michael-ofori-tenkorang-525a54231)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tenkorangjr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michael-ofori-tenkorang-525a54231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tenkorangjr" height="30" width="40" /></a>
 <a href="https://instagram.com/michaeltenkorangjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michaeltenkorangjr" height="30" width="40" /></a>
 </p>
 
