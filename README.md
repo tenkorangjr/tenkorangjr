@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Michael Tenkorang</h1>
+<h1 align="center">Hi 👋, I'm Michael Tenkorang Jr.</h1>
 <h3 align="center">An Aspiring Software Engineer from Colby College!</h3>
 
-- 🔭 I’m currently working on **Simulations, Bots, and web apps**
+- 🔭 I’m currently working on **Simulations, Bots, and Web Apps**
 
 - 🌱 I’m currently learning **Flutter, Flask and C#**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **michael.tenkorang@colby.edu**
 
-- ⚡ Fun fact **I could be a bot**
+- ⚡ Fun fact **I could be a bot! Who knows?!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
