@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Tenkorang Jr.</h1>
-<h3 align="center">An Aspiring Software Engineer from Colby College!</h3>
+<h3 align="center">An Aspiring Software Engineer!</h3>
 
 - 🔭 I’m currently working on **Simulations, Bots, and Web Apps**
 
