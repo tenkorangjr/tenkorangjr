@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Simulations, Bots, and Web Apps**
 
-- 🌱 I’m currently learning **Flutter, Flask and C#**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **video games, hiking and puzzles!**
 
